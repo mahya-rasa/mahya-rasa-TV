@@ -21,7 +21,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 550px;
+  height: 60rem;
   background-repeat: no-repeat;
 }
 
@@ -38,7 +38,7 @@ header h1 {
 header input {
   background-color: rgba(224, 203, 183, 0.8);
   color: rgba(0, 0, 0);
-  font-size: 3rem;
+  font-size: 2.2rem;
   padding: 0 1rem;
   position: absolute;
   top: 3rem;
